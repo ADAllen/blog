@@ -26,3 +26,11 @@ css复习整理
      overflow:hidden;
  }
 
+文字垂直居中
+div{
+    line-hight:24px;
+    padding:8px 0;
+    text-aline:center  //尽量不要写死hight,会出bug
+}
+
+
